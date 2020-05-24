@@ -4,31 +4,23 @@ Exercises of Python tricks the book https://www.amazon.com/-/es/Dan-Bader/dp/177
 
 ### **Recommendations**
 
-1. Install [virtualenv](https://uoa-eresearch.github.io/eresearch-cookbook/recipe/2014/11/26/python-virtual-env/) library
+1.  Install [virtualenv](https://uoa-eresearch.github.io/eresearch-cookbook/recipe/2014/11/26/python-virtual-env/) library
 
-```
-pip install virtualenv
-```
+        pip install virtualenv
 
-2. Create virtualenv
+2.  Create virtualenv
 
-```
-virtualenv venv
-```
+        virtualenv venv
 
-3. Activate virtualenv
+3.  Activate virtualenv
 
-Mac/Linux
+    Mac/Linux
 
-```
-source venv/bin/activate
-```
+        source venv/bin/activate
 
-4. Install dependencies
+4.  Install dependencies
 
-```
-pip install -r requirements.txt
-```
+        pip install -r requirements.txt
 
 ## Execute
 
@@ -42,4 +34,4 @@ Activate environment or install environment on system and execute the following 
 
 #### VS code
 
-Install [python plugin](https://github.com/Microsoft/vscode-python), configure python environment on vscode
+Install [python plugin](https://github.com/Microsoft/vscode-python) and configure python environment on vscode

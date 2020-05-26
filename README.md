@@ -1,6 +1,7 @@
 # Python tricks
 
 Exercises of Python tricks the book https://www.amazon.com/-/es/Dan-Bader/dp/1775093301
+I'm using Python 3.7.7
 
 ### **Recommendations**
 

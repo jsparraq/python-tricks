@@ -1,7 +1,18 @@
-# Python tricks
+# **Python tricks**
 
 Exercises of Python tricks the book https://www.amazon.com/-/es/Dan-Bader/dp/1775093301
 I'm using Python 3.7.7
+
+### **Most important modules**
+
+- [Underscores](https://github.com/jsparraq/python-tricks/blob/master/Patterns%20for%20Cleaner%20Python/Underscores.ipynb)
+
+- [With statement](https://github.com/js
+  parraq/python-tricks/blob/master/Patterns%20for%20Cleaner%20Python/With-statement.ipynb)
+
+### **Important modules**
+
+- [String formatting](https://github.com/jsparraq/python-tricks/blob/master/Patterns%20for%20Cleaner%20Python/String-formatting.ipynb)
 
 ### **Recommendations**
 

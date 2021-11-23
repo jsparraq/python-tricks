@@ -1,0 +1,18 @@
+[tool.poetry]
+name = "python-tricks"
+version = "0.1.0"
+description = "Python concepts"
+authors = ["Sebastian Parra <sebastian.parra96@gmail.com>"]
+license = "Licence MIT"
+
+[tool.poetry.dependencies]
+python = "^3.8"
+jupyter = "^1.0.0"
+black = "^21.11b1"
+pylint = "^2.11.1"
+
+[tool.poetry.dev-dependencies]
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
